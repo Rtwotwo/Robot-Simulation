@@ -17,9 +17,9 @@ including grid, block, and thread. ___Grid___: Composed of multiple Blocks. Each
 kernel function call. ___Block___: Contains multiple Threads. All threads share the shared memory within 
 the same Block. Block is the basic unit of scheduling. ___Thread___: The most basic execution unit that 
 can independently execute instructions in the kernel function. 
-<p align="center">
+<div align="center">
 <src img="./assets/gpu_cpu.jpg", alt="GPU devotes more transistors to data processing" >
-</p>
+</div>
 
 ## 1.CUDA Tutorials
 
