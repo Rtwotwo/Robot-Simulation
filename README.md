@@ -17,25 +17,23 @@ including grid, block, and thread. ___Grid___: Composed of multiple Blocks. Each
 kernel function call. ___Block___: Contains multiple Threads. All threads share the shared memory within 
 the same Block. Block is the basic unit of scheduling. ___Thread___: The most basic execution unit that 
 can independently execute instructions in the kernel function. 
-<div align="center">
-<src img="./assets/gpu_cpu.jpg", alt="GPU devotes more transistors to data processing" >
-</div>
+![image](./assets/gpu_cpu.jpg)  
 
 ## 1.CUDA Tutorials
 
 ___Official documents and tutorials___  
-[NVIDIA CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/): This is one of the most 
-authoritative resources for learning CUDA programming, covering all topics from basic to advanced.  
-[NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples?spm=5176.28103460.0.0.29b01db8ILLOEG): A large number of 
-sample codes provided officially are very suitable for beginners to learn CUDA programming through practice.  
+	[NVIDIA CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/): This is one of the most 
+	authoritative resources for learning CUDA programming, covering all topics from basic to advanced.  
+	[NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples?spm=5176.28103460.0.0.29b01db8ILLOEG): A large number of 
+	sample codes provided officially are very suitable for beginners to learn CUDA programming through practice.  
 ___CUDA tutorials and projects on GitHub___  
-[CUDA by Example](https://github.com/jeffra/cuda-by-example?spm=5176.28103460.0.0.29b01db8ILLOEG): The source code of 
-this book provides many practical examples and is suitable for beginners to quickly get started.  
-[CUDA Tutorials](https://github.com/parallel-forall/code-samples?spm=5176.28103460.0.0.29b01db8ILLOEG): NVIDIA's official 
-collection of code examples covers various application scenarios.  
+	[CUDA by Example](https://github.com/jeffra/cuda-by-example?spm=5176.28103460.0.0.29b01db8ILLOEG): The source code of 
+	this book provides many practical examples and is suitable for beginners to quickly get started.  
+	[CUDA Tutorials](https://github.com/parallel-forall/code-samples?spm=5176.28103460.0.0.29b01db8ILLOEG): NVIDIA's official 
+	collection of code examples covers various application scenarios.  
 ___Other online resources___  
-[Udacity's Intro to Parallel Programming Course](https://www.udacity.com/course/): This is a free online course focusing 
-on CUDA programming. It teaches the basics of CUDA through video lectures and homework exercises.  
-[Stack Overflow](https://stackoverflow.com/questions/tagged/cuda?spm=5176.28103460.0.0.29b01db8ILLOEG): For problems 
-encountered, you can search or ask questions on Stack Overflow. The community is very active and you can get timely help.  
+	[Udacity's Intro to Parallel Programming Course](https://www.udacity.com/course/): This is a free online course focusing 
+	on CUDA programming. It teaches the basics of CUDA through video lectures and homework exercises.  
+	[Stack Overflow](https://stackoverflow.com/questions/tagged/cuda?spm=5176.28103460.0.0.29b01db8ILLOEG): For problems 
+	encountered, you can search or ask questions on Stack Overflow. The community is very active and you can get timely help.  
 
