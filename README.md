@@ -22,18 +22,18 @@ can independently execute instructions in the kernel function.
 ## 1.CUDA Tutorials
 
 Official documents and tutorials  
-[NVIDIA CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)£ºThis is one of the most 
+[NVIDIA CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/): This is one of the most 
 authoritative resources for learning CUDA programming, covering all topics from basic to advanced.  
-[NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples?spm=5176.28103460.0.0.29b01db8ILLOEG)£ºA large number of 
+[NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples?spm=5176.28103460.0.0.29b01db8ILLOEG): A large number of 
 sample codes provided officially are very suitable for beginners to learn CUDA programming through practice.  
 CUDA tutorials and projects on GitHub  
-[CUDA by Example](https://github.com/jeffra/cuda-by-example?spm=5176.28103460.0.0.29b01db8ILLOEG)£ºThe source code of 
+[CUDA by Example](https://github.com/jeffra/cuda-by-example?spm=5176.28103460.0.0.29b01db8ILLOEG): The source code of 
 this book provides many practical examples and is suitable for beginners to quickly get started.  
-[CUDA Tutorials](https://github.com/parallel-forall/code-samples?spm=5176.28103460.0.0.29b01db8ILLOEG)£ºNVIDIA's official 
+[CUDA Tutorials](https://github.com/parallel-forall/code-samples?spm=5176.28103460.0.0.29b01db8ILLOEG): NVIDIA's official 
 collection of code examples covers various application scenarios.  
 Other online resources  
-[Udacity's Intro to Parallel Programming Course](https://www.udacity.com/course/)£ºThis is a free online course focusing 
+[Udacity's Intro to Parallel Programming Course](https://www.udacity.com/course/): This is a free online course focusing 
 on CUDA programming. It teaches the basics of CUDA through video lectures and homework exercises.  
-[Stack Overflow](https://stackoverflow.com/questions/tagged/cuda?spm=5176.28103460.0.0.29b01db8ILLOEG)£ºFor problems 
+[Stack Overflow](https://stackoverflow.com/questions/tagged/cuda?spm=5176.28103460.0.0.29b01db8ILLOEG): For problems 
 encountered, you can search or ask questions on Stack Overflow. The community is very active and you can get timely help.  
 
