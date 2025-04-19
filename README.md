@@ -18,7 +18,7 @@ kernel function call. ___Block___: Contains multiple Threads. All threads share 
 the same Block. Block is the basic unit of scheduling. ___Thread___: The most basic execution unit that 
 can independently execute instructions in the kernel function. 
 <p align="center">
-<src img="./assets/gpu_cpu.jpg" alt="GPU devotes more transistors to data processing" >
+<src img="./assets/gpu_cpu.jpg", alt="GPU devotes more transistors to data processing" >
 </p>
 
 ## 1.CUDA Tutorials
